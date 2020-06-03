@@ -1,0 +1,3 @@
+Ex:
+文件的绝对路径: /Users/ericzhou/{用户名}/*****.srt
+输出的绝对路径: /Users/{用户名}/Desktop
